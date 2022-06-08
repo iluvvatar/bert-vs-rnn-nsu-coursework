@@ -1,0 +1,10 @@
+mlpipeline @ git+https://github.com/iluvvatar/research-ml-pipeline@0.0.1-runne
+numpy
+scipy
+torch
+tensorflow
+tensorflow_addons
+transformers
+datasets
+matplotlib
+tqdm
